@@ -24,14 +24,14 @@ pip install pytube
 ```
 
 ```bash
-git clone https://github.com/your-username/enhanced-youtube-downloader.git
+git clone https://github.com/your-username/YoutubeDownloader.git
 ```
 
 ```bash
-cd enhanced-youtube-downloader
+cd YoutubeDownloader
 ```
 
 ```bash
-python enhanced_youtube_downloader.py
+python YoutubeDownloader.py
 ```
     
