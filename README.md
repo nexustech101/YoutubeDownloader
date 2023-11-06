@@ -21,13 +21,17 @@ You can install Pytube using pip:
 
 ```bash
 pip install pytube
+```
 
 ```bash
 git clone https://github.com/your-username/enhanced-youtube-downloader.git
+```
 
 ```bash
 cd enhanced-youtube-downloader
+```
 
 ```bash
 python enhanced_youtube_downloader.py
+```
     
